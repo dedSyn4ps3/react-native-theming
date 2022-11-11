@@ -11,7 +11,7 @@
 
 <br>
 
-> This repo is meant to hold the code files for the Medium article [Hail to the Theme](https://medium.com/@erutherford_nullreturn).
+> This repo is meant to hold the code files for the Medium article [Hail to the Theme](https://medium.com/@erutherford_nullreturn/hail-to-the-theme-919de887120e).
 
 <br>
 
